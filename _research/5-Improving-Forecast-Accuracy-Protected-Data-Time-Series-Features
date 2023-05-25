@@ -1,0 +1,21 @@
+---
+title: "Improving the Forecast Accuracy of Protected Data Using Time Series Features"
+collection: research
+permalink: /research/5-Improving-Forecast-Accuracy-Protected-Data-Time-Series-Features
+paperurl: 'http://cdbale.github.io/files/ImprovingForecastAccuracyProtectedDataTimeSeriesFeatures.pdf'
+citation: 'Bale, C.D., Schneider, M. J., & Lee, J. (2023). "Improving the Forecast Accuracy of Protected Data Using Time Series Features." _Working Paper_.'
+---
+ 
+Abstract: "Forecasters often utilize large amounts of personal or commercially sensitive data. This data can be 
+protected using privacy methods that mitigate privacy concerns and enable compliance with 
+privacy laws and regulations. However, existing privacy methods degrade forecast accuracy to 
+unusable levels. To overcome this problem, we propose a matrix-based privacy method called k-nearest time series + (k-nTS+) swapping that preserves time series features to maintain forecast 
+accuracy. We apply our privacy method to a forecasting competition data set and find that k-nTS+ 
+swapping maintains forecast accuracy and preserves the distribution of time series features much 
+better than competitor methods at similar privacy levels. The k-nTS+ protected time series are also 
+more representative of the original data, potentially leading to increased trust between data 
+owners and forecasters. Using our approach, data owners can share representative time series data 
+with useful features and significantly reduced privacy concerns. This can increase data availability 
+to the forecasting community and give privacy-conscious data owners a competitive advantage."
+
+[Download paper here](http://cdbale.github.io/files/ImprovingForecastAccuracyProtectedDataTimeSeriesFeatures.pdf)
