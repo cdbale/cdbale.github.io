@@ -3,7 +3,7 @@ title: "Improving the Forecast Accuracy of Protected Data Using Time Series Feat
 collection: research
 permalink: /research/5-Improving-Forecast-Accuracy-Protected-Data-Time-Series-Features
 paperurl: 'http://cdbale.github.io/files/ImprovingForecastAccuracyProtectedDataTimeSeriesFeatures.pdf'
-citation: 'Bale, C.D., Schneider, M. J., & Lee, J. (2023). "Improving the Forecast Accuracy of Protected Data Using Time Series Features." *Working Paper*.'
+citation: 'Bale, C.D., Schneider, M. J., & Lee, J. (2023). "Improving the Forecast Accuracy of Protected Data Using Time Series Features." <i>Working Paper</i>.'
 ---
  
 Abstract: "Forecasters often utilize large amounts of personal or commercially sensitive data. This data can be 
