@@ -1,11 +1,11 @@
 ---
-title: "Legally Anonymizing Personal Data: An Application to South Korean COVID-19 Location Data"
+title: "Legally Anonymizing Location Data Under the GDPR"
 collection: Research
 permalink: /research/3-working-paper-Legally-Anonymizing-Personal-Data
 paperurl: 'http://cdbale.github.io/files/Legally_Anonymizing_Location_Data_GDPR.pdf'
-citation: 'Bale, C. D., Fischer, J. L., Schneider, M. J., & Weber, S. (2021). &quot;Legally Anonymizing Personal Data: An Application to South Korean COVID-19 Location Data.&quot; <i>Working Paper</i>.'
+citation: 'Bale, C. D., Fischer, J. L., Schneider, M. J., Weber, S. & Chang, S. (2023). &quot;Legally Anonymizing Location Data Under the GDPR; <i>Working Paper</i>.'
 ---
 
-Abstract: "In the last decade, regions and countries adopted distinct data protection legislation to govern the collection and processing of personal data. Most of these legislative frameworks recognize that data can be personal and non-personal; but, variations in commonly used privacy terms create significant differences for legally anonymizing personal data. This complexity of privacy legislation necessitates a cohesive mathematical framework to assess compliance with privacy law. We propose a mathematical framework taken from regional privacy laws to convert personal data to non-personal data. We test our framework on two logical statistical solutions on geolocation data of COVID-19 patients in South Korea. We find that both solutions produced legally anonymized data, but with varied degrees of usefulness."
+Abstract: "In the last decade, different countries adopted data protection legislation to govern the collection and processing of personal data. Most of these legislative frameworks recognize that data can either be personal or non-personal. However, there is a lack of definitive criteria for when personal data has become non-personal data, as well as an understanding of the consequences of applying such criteria to the usefulness of personal data. This uncertainty creates confusion as to whether organizations can comply with privacy laws while retaining the usefulness of personal data. To address this problem, we use the existing data privacy literature to provide reasonable interpretations of legal anonymization criteria for location data under the GDPR. We apply these criteria to two reasonable anonymization solutions that produce protected person-level data. Using location data of COVID-19 patients in South Korea, we find that these solutions can produce legally anonymous location data or useful data, but not both. Further, we highlight examples of developing more sophisticated data protection solutions to better balance the tradeoff between privacy and usefulness for contextual datasets."
 
 [Download paper here](http://cdbale.github.io/files/Legally_Anonymizing_Location_Data_GDPR.pdf)
